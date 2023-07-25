@@ -1,0 +1,7 @@
+functions in sql server
+
+in -parameter takes input
+out- parameter give output
+in out- it not take in and out
+
+transact sql-tsql

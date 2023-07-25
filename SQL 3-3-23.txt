@@ -1,0 +1,59 @@
+RAID (Redundant Arrays of Independent Disks)
+
+sql objects
+
+direct objects(sql)
+table
+view
+index
+sequence
+synonym
+
+code block(pl/sql)
+stored procedure 
+trigger
+cursors
+functions
+
+sql types
+DDL-data defenition language   (create, Alter, Drop, Truncate)
+DML-Data manipulation language  (Insert, Update, Delete)
+DQL-data query language         (Select)
+DCL-Data control language       (Grant, revoke)
+TCL-Transaction control language (savepoint, roleback,committ)
+
+
+class-schema
+
+
+sql keys
+primary key
+foreign key
+candidate key
+composite key
+super key
+
+
+sql constrains
+not null
+default
+unique
+check
+
+3 layers of database
+
+view layer(give access to view a table)(users)
+logic layer( table, data, schema)(programmers, testers)
+physical layer(storage area data)(database admin)
+
+anomalies- constrains through  a error eg. not null values if we insert null then it throughs insert anomalies. 
+
+begin transaction- to start 
+commit- to save a data fixed
+rollback -to undo function
+
+all ddl commands are auto commit
+all dml commands are manual commit
+
+
+

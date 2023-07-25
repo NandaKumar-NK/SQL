@@ -1,0 +1,14 @@
+sub query
+
+joins are faster than sub query.
+
+sub query support 27 to 150 queries.
+
+select 
+from 
+where lhs=(
+select
+from
+where
+)
+inner query

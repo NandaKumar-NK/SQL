@@ -1,0 +1,12 @@
+Triggers------before
+              instead
+              after
+
+auto executed code
+
+types
+1. DDL trigger
+2.DML trigger
+3.Logon Trigger
+
+inserted is a system table. I will get what data we will give it.
